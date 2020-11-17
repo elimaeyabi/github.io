@@ -2,17 +2,15 @@
 
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
+  <title>Hello GITHUB PAGES</title>
 </head>
-
 <body>
-  <p>THIS IS A P TAG</p>
+  <h1 class="a">Hello Github pages</h1>
+  <p class="b">THIS IS A P TAG</p>
 </body>
+  <styles>
+    .a{
+    border: 20px solid black;
+    }
+  </styles>
 </html>
