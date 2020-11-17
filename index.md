@@ -13,6 +13,6 @@
 </head>
 
 <body>
-  <script src="js/scripts.js"></script>
+  <p>THIS IS A P TAG</p>
 </body>
 </html>
